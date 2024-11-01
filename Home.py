@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 
-# Page configuration
+# Page config
 st.set_page_config(
     page_title="Language Literacy Analysis",
     page_icon="📚",
@@ -13,39 +13,37 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Load data
+
 @st.cache_data
 def load_data():
     return pd.read_csv('data/processed_data.csv')
 
 df = load_data()
 
-# Title and introduction
+
 st.title("Language Literacy Analysis in Singapore")
 
-# Introduction text with markdown
-st.markdown("""
-This analysis uses data from the **Census of Population 2020**, specifically examining:
-    
-**Resident Population Aged 15 Years and Over by Language Literate In, Highest Qualification Attained and Sex**
+with st.expander("About the Data"):
+    st.markdown("""
+        **Source:**  
+        [Census of Population 2020: Language Literacy by Qualification and Sex](https://www.singstat.gov.sg/publications/reference/cop2020/cop2020-sr1)
+        
+        **Population Coverage:**
+        
+        Singapore residents aged 15 years and over
+        
+        **Variables:**      
+        `Language Literacy`
+        `Qualification`
+        `Gender`
+        `Count`
+    """)
 
-The dataset includes:
-- **Population**: Singapore residents aged 15 years and over
-- **Time Period**: 2020
-- **Key Dimensions**:
-    - Language Literacy
-    - Highest Qualification Attained
-    - Sex (Gender)
-""")
 
-
-# Key metrics at the top
 st.header("Key Metrics")
 
-# Calculate key metrics
+# Calculate key metrics 
 total_population = df['Count'].sum()
-
-
 literacy_rate = (
     df[df['Language Literacy'] != 'Not Literate']['Count'].sum() / 
     total_population * 100
@@ -104,3 +102,42 @@ with col2:
     st.plotly_chart(fig2, use_container_width=True)
 
 
+st.header('Data Preview')
+# Add filters in columns
+col1, col2 = st.columns(2)
+with col1:
+    selected_gender = st.selectbox(
+        "Filter by Gender",
+        ["All"] + list(df['Gender'].unique())
+    )
+with col2:
+    selected_qual = st.selectbox(
+        "Filter by Qualification",
+        ["All"] + list(df['Qualification'].unique())
+    )
+
+
+# Filter data based on selections
+preview_df = df.copy()
+if selected_gender != "All":
+    preview_df = preview_df[preview_df['Gender'] == selected_gender]
+if selected_qual != "All":
+    preview_df = preview_df[preview_df['Qualification'] == selected_qual]
+
+# Display data with pagination
+st.dataframe(
+    preview_df,
+    use_container_width=True,
+    height=250
+)
+
+# Show dimensions
+st.caption(f"Displayed data shape: {preview_df.shape[0]} rows × {preview_df.shape[1]} columns")
+
+
+st.download_button(
+label="Download Data as CSV",
+data=df.to_csv(index=False).encode('utf-8'),
+file_name='language_literacy_data.csv',
+mime='text/csv'
+)
