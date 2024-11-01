@@ -1,0 +1,225 @@
+Language Literacy,Qualification,Gender,Count,num_languages,education_level_ordinal,gender_numeric,eng_speaker,chi_speaker,malay_speaker,tamil_speaker,total_per_group,percentage
+Not Literate,No Qualification,Males,20888,0,0,1,0,0,0,0,120583,17.322508147914714
+English Only,No Qualification,Males,7558,1,0,1,1,0,0,0,120583,6.267881873895989
+Chinese Only,No Qualification,Males,65034,1,0,1,0,1,0,0,120583,53.932975626746725
+Malay Only,No Qualification,Males,5591,1,0,1,0,0,1,0,120583,4.636640322433511
+Tamil Only,No Qualification,Males,659,1,0,1,0,0,0,1,120583,0.5465115314762445
+Non-Official Language Only,No Qualification,Males,122,1,0,1,0,0,0,0,120583,0.10117512418831842
+English & Chinese Only,No Qualification,Males,11050,2,0,1,1,1,0,0,120583,9.163812477712446
+English & Malay Only,No Qualification,Males,6973,2,0,1,1,0,1,0,120583,5.782738860370036
+English & Tamil Only,No Qualification,Males,1084,2,0,1,1,0,0,1,120583,0.898965857542108
+English & Non-Official Language Only,No Qualification,Males,72,2,0,1,1,0,0,0,120583,0.05970990935704038
+Other Two Languages Only,No Qualification,Males,642,2,0,1,0,0,0,0,120583,0.53241335843361
+"English, Chinese & Malay Only",No Qualification,Males,530,3,0,1,1,1,1,0,120583,0.4395312772115472
+"English, Malay & Tamil Only",No Qualification,Males,247,3,0,1,1,0,1,1,120583,0.20483816126651352
+Other Three or More Languages,No Qualification,Males,133,3,0,1,0,0,0,0,120583,0.11029747145119959
+Not Literate,Primary,Males,1163,0,1,1,0,0,0,0,80079,1.4523158381098664
+English Only,Primary,Males,7535,1,1,1,1,0,0,0,80079,9.409458160066935
+Chinese Only,Primary,Males,37816,1,1,1,0,1,0,0,80079,47.2233669251614
+Malay Only,Primary,Males,4046,1,1,1,0,0,1,0,80079,5.052510645737334
+Tamil Only,Primary,Males,515,1,1,1,0,0,0,1,80079,0.6431149240125376
+Non-Official Language Only,Primary,Males,14,1,1,1,0,0,0,0,80079,0.01748273579839908
+English & Chinese Only,Primary,Males,15407,2,1,1,1,1,0,0,80079,19.23975074613819
+English & Malay Only,Primary,Males,10210,2,1,1,1,0,1,0,80079,12.749909464403903
+English & Tamil Only,Primary,Males,1668,2,1,1,1,0,0,1,80079,2.0829430936949764
+English & Non-Official Language Only,Primary,Males,25,2,1,1,1,0,0,0,80079,0.031219171068569786
+Other Two Languages Only,Primary,Males,289,2,1,1,0,0,0,0,80079,0.36089361755266675
+"English, Chinese & Malay Only",Primary,Males,746,3,1,1,1,1,1,0,80079,0.9315800646861225
+"English, Malay & Tamil Only",Primary,Males,405,3,1,1,1,0,1,1,80079,0.5057505713108306
+Other Three or More Languages,Primary,Males,240,3,1,1,0,0,0,0,80079,0.29970404225826996
+Not Literate,Lower Secondary,Males,721,0,2,1,0,0,0,0,128526,0.560975989293995
+English Only,Lower Secondary,Males,17427,1,2,1,1,0,0,0,128526,13.559124223892441
+Chinese Only,Lower Secondary,Males,38907,1,2,1,0,1,0,0,128526,30.27169599925307
+Malay Only,Lower Secondary,Males,1975,1,2,1,0,0,1,0,128526,1.536654062213093
+Tamil Only,Lower Secondary,Males,349,1,2,1,0,0,0,1,128526,0.27154038871512376
+Non-Official Language Only,Lower Secondary,Males,98,1,2,1,0,0,0,0,128526,0.07624916359335854
+English & Chinese Only,Lower Secondary,Males,40382,2,2,1,1,1,0,0,128526,31.419323716602086
+English & Malay Only,Lower Secondary,Males,19717,2,2,1,1,0,1,0,128526,15.340864883369902
+English & Tamil Only,Lower Secondary,Males,3422,2,2,1,1,0,0,1,128526,2.6624963042497236
+English & Non-Official Language Only,Lower Secondary,Males,388,2,2,1,1,0,0,0,128526,0.30188444361452155
+Other Two Languages Only,Lower Secondary,Males,721,2,2,1,0,0,0,0,128526,0.560975989293995
+"English, Chinese & Malay Only",Lower Secondary,Males,2954,3,2,1,1,1,1,0,128526,2.2983676454569504
+"English, Malay & Tamil Only",Lower Secondary,Males,975,3,2,1,1,0,1,1,128526,0.7586013724849447
+Other Three or More Languages,Lower Secondary,Males,490,3,2,1,0,0,0,0,128526,0.3812458179667927
+Not Literate,Secondary,Males,425,0,3,1,0,0,0,0,227613,0.18672044215400702
+English Only,Secondary,Males,37153,1,3,1,1,0,0,0,227613,16.32288138199488
+Chinese Only,Secondary,Males,24021,1,3,1,0,1,0,0,227613,10.553439390544476
+Malay Only,Secondary,Males,1735,1,3,1,0,0,1,0,227613,0.7622587462051816
+Tamil Only,Secondary,Males,146,1,3,1,0,0,0,1,227613,0.06414396365761182
+Non-Official Language Only,Secondary,Males,67,1,3,1,0,0,0,0,227613,0.029435928527808165
+English & Chinese Only,Secondary,Males,95414,2,3,1,1,1,0,0,227613,41.91939827689983
+English & Malay Only,Secondary,Males,48976,2,3,1,1,0,1,0,227613,21.517224411610936
+English & Tamil Only,Secondary,Males,7313,2,3,1,1,0,0,1,227613,3.2129096316994197
+English & Non-Official Language Only,Secondary,Males,966,2,3,1,1,0,0,0,227613,0.42440458146063714
+Other Two Languages Only,Secondary,Males,533,2,3,1,0,0,0,0,227613,0.23416940157196645
+"English, Chinese & Malay Only",Secondary,Males,6860,3,3,1,1,1,1,0,227613,3.01388760747409
+"English, Malay & Tamil Only",Secondary,Males,1801,3,3,1,1,0,1,1,227613,0.7912553325161569
+Other Three or More Languages,Secondary,Males,2203,3,3,1,0,0,0,0,227613,0.9678709036830059
+Not Literate,Post-Secondary (Non-Tertiary),Males,772,0,4,1,0,0,0,0,190826,0.4045570310125455
+English Only,Post-Secondary (Non-Tertiary),Males,23650,1,4,1,1,0,0,0,190826,12.393489356796243
+Chinese Only,Post-Secondary (Non-Tertiary),Males,13336,1,4,1,0,1,0,0,190826,6.988565499460241
+Malay Only,Post-Secondary (Non-Tertiary),Males,1388,1,4,1,0,0,1,0,190826,0.7273641956546801
+Tamil Only,Post-Secondary (Non-Tertiary),Males,285,1,4,1,0,0,0,1,190826,0.14935071740748118
+Non-Official Language Only,Post-Secondary (Non-Tertiary),Males,22,1,4,1,0,0,0,0,190826,0.011528827308647668
+English & Chinese Only,Post-Secondary (Non-Tertiary),Males,79241,2,4,1,1,1,0,0,190826,41.52526385293409
+English & Malay Only,Post-Secondary (Non-Tertiary),Males,53111,2,4,1,1,0,1,0,190826,27.832161235890286
+English & Tamil Only,Post-Secondary (Non-Tertiary),Males,7587,2,4,1,1,0,0,1,190826,3.97587330866863
+English & Non-Official Language Only,Post-Secondary (Non-Tertiary),Males,1840,2,4,1,1,0,0,0,190826,0.9642291930868959
+Other Two Languages Only,Post-Secondary (Non-Tertiary),Males,271,2,4,1,0,0,0,0,190826,0.14201419093834172
+"English, Chinese & Malay Only",Post-Secondary (Non-Tertiary),Males,4665,3,4,1,1,1,1,0,190826,2.444635427038244
+"English, Malay & Tamil Only",Post-Secondary (Non-Tertiary),Males,1602,3,4,1,1,0,1,1,190826,0.8395082431115256
+Other Three or More Languages,Post-Secondary (Non-Tertiary),Males,3056,3,4,1,0,0,0,0,190826,1.601458920692149
+Not Literate,Polytechnic Diploma,Males,6,0,5,1,0,0,0,0,181149,0.003312190517198549
+English Only,Polytechnic Diploma,Males,20257,1,5,1,1,0,0,0,181149,11.182507217815168
+Chinese Only,Polytechnic Diploma,Males,1709,1,5,1,0,1,0,0,181149,0.94342226564872
+Malay Only,Polytechnic Diploma,Males,119,1,5,1,0,0,1,0,181149,0.06569177859110456
+Tamil Only,Polytechnic Diploma,Males,62,1,5,1,0,0,0,1,181149,0.03422596867771834
+Non-Official Language Only,Polytechnic Diploma,Males,61,1,5,1,0,0,0,0,181149,0.03367393692485192
+English & Chinese Only,Polytechnic Diploma,Males,109172,2,5,1,1,1,0,0,181149,60.26641052393333
+English & Malay Only,Polytechnic Diploma,Males,31687,2,5,1,1,0,1,0,181149,17.492230153078406
+English & Tamil Only,Polytechnic Diploma,Males,6981,2,5,1,1,0,0,1,181149,3.853733666760512
+English & Non-Official Language Only,Polytechnic Diploma,Males,2014,2,5,1,1,0,0,0,181149,1.1117919502729798
+Other Two Languages Only,Polytechnic Diploma,Males,64,2,5,1,0,0,0,0,181149,0.03533003218345119
+"English, Chinese & Malay Only",Polytechnic Diploma,Males,4862,3,5,1,1,1,1,0,181149,2.6839783824365577
+"English, Malay & Tamil Only",Polytechnic Diploma,Males,741,3,5,1,1,0,1,1,181149,0.4090555288740208
+Other Three or More Languages,Polytechnic Diploma,Males,3414,3,5,1,0,0,0,0,181149,1.8846364042859745
+Not Literate,Professional Qualification and Other Diploma,Males,18,0,6,1,0,0,0,0,87669,0.02053177291859152
+English Only,Professional Qualification and Other Diploma,Males,13561,1,6,1,1,0,0,0,87669,15.468409586056644
+Chinese Only,Professional Qualification and Other Diploma,Males,2699,1,6,1,0,1,0,0,87669,3.0786252837376953
+Malay Only,Professional Qualification and Other Diploma,Males,96,1,6,1,0,0,1,0,87669,0.10950278889915478
+Tamil Only,Professional Qualification and Other Diploma,Males,91,1,6,1,0,0,0,1,87669,0.10379951864399047
+Non-Official Language Only,Professional Qualification and Other Diploma,Males,52,1,6,1,0,0,0,0,87669,0.05931401065370883
+English & Chinese Only,Professional Qualification and Other Diploma,Males,40113,2,6,1,1,1,0,0,87669,45.7550559490812
+English & Malay Only,Professional Qualification and Other Diploma,Males,12744,2,6,1,1,0,1,0,87669,14.536495226362797
+English & Tamil Only,Professional Qualification and Other Diploma,Males,5123,2,6,1,1,0,0,1,87669,5.843570703441353
+English & Non-Official Language Only,Professional Qualification and Other Diploma,Males,2180,2,6,1,1,0,0,0,87669,2.4866258312516396
+Other Two Languages Only,Professional Qualification and Other Diploma,Males,58,2,6,1,0,0,0,0,87669,0.06615793495990602
+"English, Chinese & Malay Only",Professional Qualification and Other Diploma,Males,7645,3,6,1,1,1,1,0,87669,8.720300220146232
+"English, Malay & Tamil Only",Professional Qualification and Other Diploma,Males,882,3,6,1,1,0,1,1,87669,1.0060568730109845
+Other Three or More Languages,Professional Qualification and Other Diploma,Males,2407,3,6,1,0,0,0,0,87669,2.7455543008360994
+Not Literate,University,Males,38,0,7,1,0,0,0,0,488587,0.007777529897438942
+English Only,University,Males,59491,1,7,1,1,0,0,0,488587,12.176132398119476
+Chinese Only,University,Males,3586,1,7,1,0,1,0,0,488587,0.7339532161109485
+Malay Only,University,Males,107,1,7,1,0,0,1,0,488587,0.021899886816472806
+Tamil Only,University,Males,207,1,7,1,0,0,0,1,488587,0.0423670707571016
+Non-Official Language Only,University,Males,171,1,7,1,0,0,0,0,488587,0.03499888453847524
+English & Chinese Only,University,Males,289485,2,7,1,1,1,0,0,488587,59.24942743052925
+English & Malay Only,University,Males,30974,2,7,1,1,0,1,0,488587,6.339505553770362
+English & Tamil Only,University,Males,21625,2,7,1,1,0,0,1,488587,4.426028527160977
+English & Non-Official Language Only,University,Males,25106,2,7,1,1,0,0,0,488587,5.138491200134265
+Other Two Languages Only,University,Males,218,2,7,1,0,0,0,0,488587,0.04461846099057077
+"English, Chinese & Malay Only",University,Males,31351,3,7,1,1,1,1,0,488587,6.416666837226533
+"English, Malay & Tamil Only",University,Males,1505,3,7,1,1,0,1,1,488587,0.30803111830646335
+Other Three or More Languages,University,Males,24723,3,7,1,0,0,0,0,488587,5.060101885641656
+Not Literate,No Qualification,Females,71331,0,0,0,0,0,0,0,213239,33.45119795159422
+English Only,No Qualification,Females,7028,1,0,0,1,0,0,0,213239,3.2958323758787085
+Chinese Only,No Qualification,Females,93295,1,0,0,0,1,0,0,213239,43.751377562265816
+Malay Only,No Qualification,Females,15061,1,0,0,0,0,1,0,213239,7.062966905678605
+Tamil Only,No Qualification,Females,3404,1,0,0,0,0,0,1,213239,1.596330877559921
+Non-Official Language Only,No Qualification,Females,1887,1,0,0,0,0,0,0,213239,0.8849225516908258
+English & Chinese Only,No Qualification,Females,10341,2,0,0,1,1,0,0,213239,4.849488133033826
+English & Malay Only,No Qualification,Females,6671,2,0,0,1,0,1,0,213239,3.128414595829093
+English & Tamil Only,No Qualification,Females,1455,2,0,0,1,0,0,1,213239,0.6823329691097783
+English & Non-Official Language Only,No Qualification,Females,577,2,0,0,1,0,0,0,213239,0.2705884008084825
+Other Two Languages Only,No Qualification,Females,1231,2,0,0,0,0,0,0,213239,0.5772865188825683
+"English, Chinese & Malay Only",No Qualification,Females,467,3,0,0,1,1,1,0,213239,0.21900309042904909
+"English, Malay & Tamil Only",No Qualification,Females,276,3,0,0,1,0,1,1,213239,0.12943223331566928
+Other Three or More Languages,No Qualification,Females,215,3,0,0,0,0,0,0,213239,0.10082583392343801
+Not Literate,Primary,Females,1186,0,1,0,0,0,0,0,93832,1.263961122005286
+English Only,Primary,Females,6989,1,1,0,1,0,0,0,93832,7.448418449995738
+Chinese Only,Primary,Females,46380,1,1,0,0,1,0,0,93832,49.428766305737916
+Malay Only,Primary,Females,6942,1,1,0,0,0,1,0,93832,7.398328928297381
+Tamil Only,Primary,Females,1688,1,1,0,0,0,0,1,93832,1.7989598431238811
+Non-Official Language Only,Primary,Females,819,1,1,0,0,0,0,0,93832,0.8728365589564328
+English & Chinese Only,Primary,Females,15380,2,1,0,1,1,0,0,93832,16.390996674908347
+English & Malay Only,Primary,Females,10031,2,1,0,1,0,1,0,93832,10.690382811833917
+English & Tamil Only,Primary,Females,2142,2,1,0,1,0,0,1,93832,2.282803308039901
+English & Non-Official Language Only,Primary,Females,446,2,1,0,1,0,0,0,93832,0.4753175888822576
+Other Two Languages Only,Primary,Females,764,2,1,0,0,0,0,0,93832,0.8142211612243159
+"English, Chinese & Malay Only",Primary,Females,476,3,1,0,1,1,1,0,93832,0.5072896240088669
+"English, Malay & Tamil Only",Primary,Females,313,3,1,0,1,0,1,1,93832,0.3335748998209566
+Other Three or More Languages,Primary,Females,276,3,1,0,0,0,0,0,93832,0.29414272316480516
+Not Literate,Lower Secondary,Females,539,0,2,0,0,0,0,0,129611,0.41585976498908267
+English Only,Lower Secondary,Females,14246,1,2,0,1,0,0,0,129611,10.99135104273557
+Chinese Only,Lower Secondary,Females,44225,1,2,0,0,1,0,0,129611,34.12133229432687
+Malay Only,Lower Secondary,Females,3759,1,2,0,0,0,1,0,129611,2.9002168025862
+Tamil Only,Lower Secondary,Females,826,1,2,0,0,0,0,1,129611,0.6372915879053476
+Non-Official Language Only,Lower Secondary,Females,739,1,2,0,0,0,0,0,129611,0.5701676555230651
+English & Chinese Only,Lower Secondary,Females,35608,2,2,0,1,1,0,0,129611,27.472976830670238
+English & Malay Only,Lower Secondary,Females,19194,2,2,0,1,0,1,0,129611,14.808928254546297
+English & Tamil Only,Lower Secondary,Females,3671,2,2,0,1,0,0,1,129611,2.832321330751248
+English & Non-Official Language Only,Lower Secondary,Females,1401,2,2,0,1,0,0,0,129611,1.0809267731905472
+Other Two Languages Only,Lower Secondary,Females,1152,2,2,0,0,0,0,0,129611,0.888813449475739
+"English, Chinese & Malay Only",Lower Secondary,Females,2665,3,2,0,1,1,1,0,129611,2.056152641365316
+"English, Malay & Tamil Only",Lower Secondary,Females,718,3,2,0,1,0,1,1,129611,0.553965327016997
+Other Three or More Languages,Lower Secondary,Females,868,3,2,0,0,0,0,0,129611,0.6696962449174839
+Not Literate,Secondary,Females,542,0,3,0,0,0,0,0,277951,0.19499839899838461
+English Only,Secondary,Females,36890,1,3,0,1,0,0,0,277951,13.272123503783039
+Chinese Only,Secondary,Females,33895,1,3,0,0,1,0,0,277951,12.194595450277207
+Malay Only,Secondary,Females,2944,1,3,0,0,0,1,0,277951,1.0591794956665024
+Tamil Only,Secondary,Females,589,1,3,0,0,0,0,1,277951,0.21190785426208214
+Non-Official Language Only,Secondary,Females,553,1,3,0,0,0,0,0,277951,0.19895593108137768
+English & Chinese Only,Secondary,Females,121709,2,3,0,1,1,0,0,277951,43.7879338444546
+English & Malay Only,Secondary,Females,54576,2,3,0,1,0,1,0,277951,19.635115541948043
+English & Tamil Only,Secondary,Females,8148,2,3,0,1,0,0,1,277951,2.9314519465661215
+English & Non-Official Language Only,Secondary,Females,2561,2,3,0,1,0,0,0,277951,0.9213854240495627
+Other Two Languages Only,Secondary,Females,1028,2,3,0,0,0,0,0,277951,0.3698493619378955
+"English, Chinese & Malay Only",Secondary,Females,9549,3,3,0,1,1,1,0,277951,3.435497623681872
+"English, Malay & Tamil Only",Secondary,Females,2022,3,3,0,1,0,1,1,277951,0.7274663519829034
+Other Three or More Languages,Secondary,Females,2945,3,3,0,0,0,0,0,277951,1.0595392713104108
+Not Literate,Post-Secondary (Non-Tertiary),Females,1071,0,4,0,0,0,0,0,151060,0.7089898053753475
+English Only,Post-Secondary (Non-Tertiary),Females,14965,1,4,0,1,0,0,0,151060,9.906659605454786
+Chinese Only,Post-Secondary (Non-Tertiary),Females,17650,1,4,0,0,1,0,0,151060,11.684099033496624
+Malay Only,Post-Secondary (Non-Tertiary),Females,1307,1,4,0,0,0,1,0,151060,0.8652191182311664
+Tamil Only,Post-Secondary (Non-Tertiary),Females,244,1,4,0,0,0,0,1,151060,0.1615252217661856
+Non-Official Language Only,Post-Secondary (Non-Tertiary),Females,382,1,4,0,0,0,0,0,151060,0.25287965047001193
+English & Chinese Only,Post-Secondary (Non-Tertiary),Females,63751,2,4,0,1,1,0,0,151060,42.20243611809877
+English & Malay Only,Post-Secondary (Non-Tertiary),Females,35692,2,4,0,1,0,1,0,151060,23.62769760360122
+English & Tamil Only,Post-Secondary (Non-Tertiary),Females,5218,2,4,0,1,0,0,1,151060,3.454256586786707
+English & Non-Official Language Only,Post-Secondary (Non-Tertiary),Females,2174,2,4,0,1,0,0,0,151060,1.4391632463921622
+Other Two Languages Only,Post-Secondary (Non-Tertiary),Females,530,2,4,0,0,0,0,0,151060,0.35085396531179663
+"English, Chinese & Malay Only",Post-Secondary (Non-Tertiary),Females,3992,3,4,0,1,1,1,0,151060,2.642658546273004
+"English, Malay & Tamil Only",Post-Secondary (Non-Tertiary),Females,1138,3,4,0,1,0,1,1,151060,0.753343042499669
+Other Three or More Languages,Post-Secondary (Non-Tertiary),Females,2946,3,4,0,0,0,0,0,151060,1.9502184562425524
+Not Literate,Polytechnic Diploma,Females,14,0,5,0,0,0,0,0,120816,0.011587869156403125
+English Only,Polytechnic Diploma,Females,7963,1,5,0,1,0,0,0,120816,6.591014435174149
+Chinese Only,Polytechnic Diploma,Females,2926,1,5,0,0,1,0,0,120816,2.421864653688253
+Malay Only,Polytechnic Diploma,Females,98,1,5,0,0,0,1,0,120816,0.08111508409482188
+Tamil Only,Polytechnic Diploma,Females,15,1,5,0,0,0,0,1,120816,0.012415574096146206
+Non-Official Language Only,Polytechnic Diploma,Females,30,1,5,0,0,0,0,0,120816,0.024831148192292412
+English & Chinese Only,Polytechnic Diploma,Females,73554,2,5,0,1,1,0,0,120816,60.88100913786253
+English & Malay Only,Polytechnic Diploma,Females,23582,2,5,0,1,0,1,0,120816,19.51893788902132
+English & Tamil Only,Polytechnic Diploma,Females,4331,2,5,0,1,0,0,1,120816,3.5847900940272814
+English & Non-Official Language Only,Polytechnic Diploma,Females,1089,2,5,0,1,0,0,0,120816,0.9013706793802145
+Other Two Languages Only,Polytechnic Diploma,Females,43,2,5,0,0,0,0,0,120816,0.03559131240895246
+"English, Chinese & Malay Only",Polytechnic Diploma,Females,3850,3,5,0,1,1,1,0,120816,3.18666401801086
+"English, Malay & Tamil Only",Polytechnic Diploma,Females,429,3,5,0,1,0,1,1,120816,0.3550854191497815
+Other Three or More Languages,Polytechnic Diploma,Females,2892,3,5,0,0,0,0,0,120816,2.3937226857369884
+Not Literate,Professional Qualification and Other Diploma,Females,33,0,6,0,0,0,0,0,130302,0.02532578164571534
+English Only,Professional Qualification and Other Diploma,Females,12797,1,6,0,1,0,0,0,130302,9.821031143036944
+Chinese Only,Professional Qualification and Other Diploma,Females,6782,1,6,0,0,1,0,0,130302,5.204831852158831
+Malay Only,Professional Qualification and Other Diploma,Females,157,1,6,0,0,0,1,0,130302,0.12048932479931238
+Tamil Only,Professional Qualification and Other Diploma,Females,53,1,6,0,0,0,0,1,130302,0.040674740218876154
+Non-Official Language Only,Professional Qualification and Other Diploma,Females,191,1,6,0,0,0,0,0,130302,0.14658255437368575
+English & Chinese Only,Professional Qualification and Other Diploma,Females,67262,2,6,0,1,1,0,0,130302,51.62008257739712
+English & Malay Only,Professional Qualification and Other Diploma,Females,17442,2,6,0,1,0,1,0,130302,13.385826771653544
+English & Tamil Only,Professional Qualification and Other Diploma,Females,4302,2,6,0,1,0,0,1,130302,3.301560989086891
+English & Non-Official Language Only,Professional Qualification and Other Diploma,Females,2615,2,6,0,1,0,0,0,130302,2.006876333440776
+Other Two Languages Only,Professional Qualification and Other Diploma,Females,151,2,6,0,0,0,0,0,130302,0.11588463722736413
+"English, Chinese & Malay Only",Professional Qualification and Other Diploma,Females,14343,3,6,0,1,1,1,0,130302,11.007505640742275
+"English, Malay & Tamil Only",Professional Qualification and Other Diploma,Females,817,3,6,0,1,0,1,1,130302,0.6270049577136191
+Other Three or More Languages,Professional Qualification and Other Diploma,Females,3357,3,6,0,0,0,0,0,130302,2.5763226965050423
+Not Literate,University,Females,24,0,7,0,0,0,0,0,518598,0.004627862043432485
+English Only,University,Females,45820,1,7,0,1,0,0,0,518598,8.835359951253187
+Chinese Only,University,Females,5347,1,7,0,0,1,0,0,518598,1.031049097759729
+Malay Only,University,Females,245,1,7,0,0,0,1,0,518598,0.04724275836003995
+Tamil Only,University,Females,396,1,7,0,0,0,0,1,518598,0.076359723716636
+Non-Official Language Only,University,Females,744,1,7,0,0,0,0,0,518598,0.14346372334640706
+English & Chinese Only,University,Females,317366,2,7,0,1,1,0,0,518598,61.19691938649976
+English & Malay Only,University,Females,35873,2,7,0,1,0,1,0,518598,6.917303961835565
+English & Tamil Only,University,Females,22461,2,7,0,1,0,0,1,518598,4.331100389897377
+English & Non-Official Language Only,University,Females,27152,2,7,0,1,0,0,0,518598,5.235654591803285
+Other Two Languages Only,University,Females,303,2,7,0,0,0,0,0,518598,0.05842675829833512
+"English, Chinese & Malay Only",University,Females,33333,3,7,0,1,1,1,0,518598,6.427521895572292
+"English, Malay & Tamil Only",University,Females,1114,3,7,0,1,0,1,1,518598,0.21480992984932454
+Other Three or More Languages,University,Females,28420,3,7,0,0,0,0,0,518598,5.480159969764635
