@@ -20,5 +20,5 @@ SG-Literacy-Analysis/
 │
 ├── requirements.txt         # Project dependencies
 ├── README.md                # Project documentation
-└── app.py                   # Main Streamlit application
+└── Home.py                   # Main Streamlit application
 ```
