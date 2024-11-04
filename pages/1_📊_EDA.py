@@ -64,7 +64,7 @@ with tab1:
 
 with tab2:
     language_options = {"One Language": 1, "Two Languages": 2, "Three or More Languages": 3}
-    selected_distribution = st.selectbox(
+    selected_distribution = st.radio(
         "Filter by Number of Languages",
         ["All"] + list(language_options.keys())
     )
